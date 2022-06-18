@@ -1,0 +1,11 @@
+{
+    "version": 1.0,
+    "name": "Music Player",
+    "description": "",
+    "changes": [
+        "Uygulamanın ilk versiyonu"
+    ],
+    "apks": [
+        "universal"
+    ]
+}

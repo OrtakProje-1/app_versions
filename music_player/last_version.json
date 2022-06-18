@@ -1,0 +1,15 @@
+{
+    "version": 1.2,
+    "name": "Music Player",
+    "description": "",
+    "changes": [
+        "v1.0.0' daki sorunlar giderildi",
+        "Mini player eklendi",
+        "Tasarım güncellendi",
+        "Bildirim iconları güncellendi",
+        "Ana ekrandaki resimler küçültüldü"
+    ],
+    "apks": [
+        "universal"
+    ]
+}
