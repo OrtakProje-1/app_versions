@@ -1,0 +1,21 @@
+{
+    "version": 1.2,
+    "name": "Music Player",
+    "description": "",
+    "changes": [
+        "Gönderilen ses mesajlarının silinmeme sorunu düzeltildi",
+        "Ana sayfadan arama ekranına gidince aranan cümle geçmiş aramalara kaydedildi",
+        "Arama ekranında cihazdaki müzikleri arama kısmı kaldırıldı, onun yerine cihaz sekmesine özel arama getirildi",
+        "Mini Player eklendi",
+        "Son dinlenen müzik ve müzik kuyruğu kaydedilip uygulama açılışında yeniden yüklendi",
+        "Bazı ufak hatalar giderildi",
+        "Tasarımda ufak güncellemeler yapıldı",
+        "Kullanıcılara admin özelliği eklendi",
+        "Otomatik güncelleme eklendi"
+    ],
+    "apks": [
+        "universal",
+        "arm64-v8a",
+        "armeabi-v7a"
+    ]
+}
