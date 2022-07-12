@@ -1,0 +1,19 @@
+{
+    "version": 1.3,
+    "name": "Music Player",
+    "description": "",
+    "changes": [
+        "Oynatma listeleri eklendi",
+        "Müzik paylaşma kaldırıldı",
+        "Karanlık mod eklendi",
+        "Bazı hatalar giderildi",
+        "Tasarım iyileştirildi",
+        "Müzik indirme eklendi",
+        "Müziklere sıralama eklendi"
+    ],
+    "apks": [
+        "universal",
+        "arm64-v8a",
+        "armeabi-v7a"
+    ]
+}
